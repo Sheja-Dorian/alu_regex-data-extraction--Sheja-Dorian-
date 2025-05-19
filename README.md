@@ -1,1 +1,1 @@
-# alu_regex-data-extraction--Sheja-Dorian-
+As a Junior Full Stack Developer, I have landed a short-term gig to build a Web Application for a private organization. My API collects large amounts of text data from across the web, and I need to extract specific types of data using Regular Expressions.
